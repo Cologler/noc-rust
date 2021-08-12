@@ -1,4 +1,4 @@
-# noc-rust
+# noc
 
 *Run sub process without console.*
 
