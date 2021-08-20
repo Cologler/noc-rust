@@ -14,3 +14,14 @@ noc pwsh -c '...'
 ```
 
 Bye bye, console window.
+
+### Features
+
+- To quit the process, you **have to** use the task manager;
+- No logs, unless you redirect the stdout and stderr to a file;
+- Trance if the app try read char from stdin.
+
+### More Use Cases
+
+- deamon server like `mongod.exe` or `mariadbd.exe`, etc;
+- `pueued` from https://github.com/Nukesor/pueue;
