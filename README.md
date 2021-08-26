@@ -23,5 +23,6 @@ Bye bye, console window.
 
 ### More Use Cases
 
-- deamon server like `mongod.exe` or `mariadbd.exe`, etc;
-- `pueued` from https://github.com/Nukesor/pueue;
+- Run database deamon server like `mongod.exe` or `mariadbd.exe`, etc;
+- Run `pueued` from https://github.com/Nukesor/pueue;
+- Run pm2 services;
